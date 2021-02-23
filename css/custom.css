@@ -9,8 +9,16 @@
 
 /*----------- ADD YOUR CUSTOM CSS STYLES BELOW -----------*/
 .skill-item {
-  margin-top: 24px;
+  margin-top: 20px;
   border: 1px solid #313131;
   background-color: #161616;
   padding: 30px 10px 10px 20px;
+}
+
+.heading-skills {
+  margin-bottom: 10px !important;
+}
+
+.skill-title {
+  margin-bottom: -40px !important;
 }
